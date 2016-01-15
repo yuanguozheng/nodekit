@@ -1,0 +1,12 @@
+{
+  "name": "nodekit",
+  "version": "0.0.1",
+  "description": "A Library for Node.js",
+  "license": "Apache-2.0",
+  "repository": "https://github.com/yuanguozheng/nodekit",
+  "contributors": "yuanguozheng@outlook.com",
+  "dependencies": {
+    "mongoose": "^4.3.5",
+    "mongoose-pages": "0.0.3"
+  }
+}
